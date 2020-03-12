@@ -1,0 +1,106 @@
+
+.text {
+    margin-bottom: 20px;
+    margin-top: 20px;
+    max-width: 650px;
+    margin-right: 60px;
+    padding:10px
+
+}
+.btn {
+    background:#0063B2FF;
+    background: -webkit-linear-gradient(to left, rgba(68, 0, 178, 0.466), rgb(9, 209, 192));  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left, rgba(68, 0, 178, 0.466), rgb(9, 209, 192));
+    
+}
+
+.formStyle {
+    width: 80%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color:white;
+    border-radius: 15px
+}
+.formControl {
+    width: 300px;
+}
+.select{
+    margin-right: 25px;
+    margin-bottom: 20px;
+    margin-top: 20px
+}
+.root {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    width:100%;
+    background: -webkit-linear-gradient(to left, rgba(68, 0, 178, 0.466), rgb(9, 209, 192));  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left, rgba(68, 0, 178, 0.466), rgb(9, 209, 192));
+}
+.mlText {
+    margin-left: 0px;
+    max-width: 80vw;
+    margin-top: 10px;
+    max-width:810px;
+    margin-bottom: 10px;
+    padding:10px;
+    
+}
+.imageInput{
+    margin-bottom: 20px;
+    width:100px;
+    margin-right: 70px
+}
+.headers{
+    font-size: 50px;
+    background: -webkit-linear-gradient(to left, rgba(68, 0, 178, 0.466), rgb(9, 209, 192));  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left, rgba(68, 0, 178, 0.466), rgb(9, 209, 192));
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-right: 20px;
+    margin-left: 20px;
+    max-width:500px;
+    text-align: center;
+    border-radius: 15px;
+    margin-top: 0px;
+    
+}
+.source{
+    margin-bottom: 30px;
+    margin-top: 20px;
+    max-width: 500px;
+    margin-right: 60px;
+    padding:10px
+}
+.mathButton{
+    margin-top: 20px;
+   
+}
+.form{
+    display:flex;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    max-width: 1000px;
+    margin-top: 50px;
+    padding-right: 150px;
+    padding-left: 150px;
+    background-color: rgb(206, 203, 203);
+    margin-bottom: 60px;
+    border-radius: 15px
+}
+.inputStyle{
+    margin-top:30px; 
+    margin-bottom: 20px;
+
+    margin-bottom: 20px;
+    width:300px;
+    margin-right: 70px
+}
+.Image{
+    border-bottom: 6px soliD  rgb(9, 209, 192);
+    border-left: 6px soliD  rgb(9, 209, 192);
+    border-radius: 6px;
+
+    max-width: 350px;
+    
+}

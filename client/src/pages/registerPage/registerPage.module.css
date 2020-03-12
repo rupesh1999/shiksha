@@ -1,0 +1,25 @@
+.hero {
+    height: 100vh;
+    background: #ee0979;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #ff6a00, #ee0979);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #ff6a00, #ee0979); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */ 
+}
+
+.style {
+    position: relative;
+    top: 20vh;
+    background-color: rgb(239, 239, 240 , 0.8);
+    padding-top: 6vh;
+    padding-bottom: 10vh;
+    width: 400px;
+    border-radius: 10px;
+}
+
+.TextFieldStyle {
+    width: 500;
+}
+.btn {
+    background: #ee0979;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #ff6a00, #ee0979);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #ff6a00, #ee0979); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */ 
+}
